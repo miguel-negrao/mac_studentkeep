@@ -11,7 +11,8 @@
    5. Ver instruções [aqui](https://support.apple.com/pt-pt/HT201314). Ver como apagar o disco [aqui](https://support.apple.com/pt-pt/HT208496).
 5. Caso  não se possa usar "internet recovery" (mac demasiado antigo) poderá criar-se uma uma pen que instala o sistema operativo. Provavelmente para esses macs a versão mais recente que se pode instalar é o El Captian (mas deve-se confirmar para o Mac específico).
    1. É necessário ter uma Mac funcional disponível.
-   2. Nesse Mac, ir buscar o instalador da última versão compatível com o computador onde se pretende instalar. No caso do El Capitan seguir as instruções [aqui](https://support.apple.com/pt-pt/HT206886).
-   3. Depois de criar a pen, arrancar da pen carrengando  em **Alt** quando o se ouve o som de arranque.
-   4. No menu do instalador abrir o disk utility e apagar o disco do computador.
-   5. Instalar o macos no disco limpo.
+   2. Nesse Mac, ir buscar o instalador da última versão compatível com o computador onde se pretende instalar. No caso do El Capitan seguir as instruções [aqui](https://support.apple.com/pt-pt/HT206886) (passo 4 Descarregar o OSX El Capitan).
+   3. Criar uma pen com instalador seguindo as instruções [aqui](https://support.apple.com/pt-pt/HT201372).
+   4. Depois de criar a pen, arrancar da pen carregando  em **Alt** quando o se ouve o som de arranque.
+   5. No menu do instalador abrir o disk utility e apagar o disco do computador.
+   6. Instalar o macos no disco limpo.
